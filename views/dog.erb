@@ -2,4 +2,12 @@
 
 This is a test
 
-<h1>These are all of the dogs</h1>
+<h1>The Dogs</h1>
+<% @dogs.each do |dog|%>
+  
+<h2>Name: <%= dog.name %></h2>
+<h2>Age: <%= dog.age %></h2>
+<h2>Breed: <%= dog.breed %></h2>
+
+<% end %>
+<!-- some sort of image finder -->
