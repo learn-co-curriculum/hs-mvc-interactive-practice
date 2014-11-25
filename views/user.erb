@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+  <head>
+    <title>User Page</title>
+  </head>
+
+  <body>
+    <h1> This is the User's Information Page </h1>
+
+    <% @all_the_users.each do |user| %>
+      <h2>Name: <%= user.name %></h2>
+      <h2>Email: <%= user.email %></h2>
+      <h2>Birthday: <%= user.birthday %></h2>
+    <%end%>
+  </body>
+</html>
