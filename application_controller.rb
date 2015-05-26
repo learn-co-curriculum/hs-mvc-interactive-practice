@@ -1,17 +1,17 @@
 require 'bundler'
 Bundler.require
 
-require_relative './models/goat.rb'
+require_relative './models/dog.rb'
 
 class MyApp < Sinatra::Base
 
-  get '/home' do
-    erb :index
+  get '/' do
+   "HEYY!"
   end
   
-  get '/goat' do
-    @goat1 = Goat.new("Callie",7)
-    erb :goat
+  get '/dog' do
+    @dog1 = Dog.new("Fido", "Lab", 5)
+    erb :dog
   end
 
 end
