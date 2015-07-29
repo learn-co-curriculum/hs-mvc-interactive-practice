@@ -1,8 +1,4 @@
----
-tags: kids, mvc
-languages: ruby
-type: interactive practice
----
+
 
 ##Interactive Practice: Model-View-Controller
 
