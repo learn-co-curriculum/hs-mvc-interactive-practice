@@ -8,4 +8,4 @@ Fork and clone this repository and follow along in lecture!
 
 
 
-<a href='https://learn.co/lessons/hs-mvc-interactive-practice' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-mvc-interactive-practice' title='Interactive Practice: Model-View-Controller'>Interactive Practice: Model-View-Controller</a> on Learn.co and start learning to code for free.</p>
