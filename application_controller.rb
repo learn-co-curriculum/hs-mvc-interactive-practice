@@ -17,4 +17,8 @@ class MyApp < Sinatra::Base
     erb :results
   end
 
+  get '/contact' do
+    erb :about
+  end
+
 end
