@@ -1,0 +1,23 @@
+@import url(https://fonts.googleapis.com/css?family=Amatic+SC);
+
+h1 {
+  font-family: 'Amatic SC', cursive;
+}
+
+.teal { color: rgba( 42, 77,110,1) }	/* Main Primary color */
+.teal-1 { color: rgba(101,111,121,1) }
+.teal-2 { color: rgba( 70, 94,116,1) }
+.teal-3 { color: rgba( 17, 61,105,1) }
+.teal-4 { color: rgba(  4, 52, 99,1) }
+
+.blue { color: rgba( 64, 48,117,1) }	/* Main Secondary color (1) */
+.blue-1 { color: rgba(113,108,129,1) }
+.blue-2 { color: rgba( 87, 77,123,1) }
+.blue-3 { color: rgba( 42, 22,111,1) }
+.blue-4 { color: rgba( 29,  7,105,1) }
+
+.green { color: rgba( 41,123, 72,1) }	/* Main Secondary color (2) */
+.green-1 { color: rgba(111,136,120,1) }
+.green-2 { color: rgba( 75,130, 95,1) }
+.green-3 { color: rgba( 11,117, 50,1) }
+.green-4 { color: rgba(  0,111, 41,1) }
